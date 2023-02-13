@@ -6,9 +6,9 @@
 - 😄 Pronome: ele/dele
 
 <div>
-  <a href= "https://github.com/FlongCD">
-  <img height= "180em" src= "https://github-readme-stats.vercel.app/api?username=FlongCD&show_icons=true&theme=tokyonight"/>
-  <img align= "right"height= "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=FlongCD&layout=compact&theme=tokyonight"/>
+  <a href= "https://github.com/caiodamiaoo">
+  <img height= "180em" src= "https://github-readme-stats.vercel.app/api?username=caiodamiaoo&show_icons=true&theme=tokyonight"/>
+  <img align= "right"height= "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=caiodamiaoo&layout=compact&theme=tokyonight"/>
 </div>
 
 
